@@ -57,19 +57,21 @@ The application follows **NxtWave UI guidelines and test cases**.
 
 ## 📂 Project Structure
 
-src
-|-- components
-|   |-- Login
-|   |-- Products
-|   |-- Cart
-|   |-- Header
-|   |-- ProtectedRoute
-|   `-- ...
-|-- context
-|   `-- CartContext.js
-|-- App.js
-|-- index.js
-`-- index.css
+<pre>
+src/
+├── components/
+│   ├── Login/
+│   ├── Products/
+│   ├── Cart/
+│   ├── Header/
+│   ├── ProtectedRoute/
+│   └── ...
+├── context/
+│   └── CartContext.js
+├── App.js
+├── index.js
+└── index.css
+</pre>
 
 ---
 
