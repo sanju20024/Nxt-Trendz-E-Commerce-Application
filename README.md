@@ -1,70 +1,62 @@
-🛒 Nxt Trendz – E-Commerce Application
+# 🛒 Nxt Trendz – E-Commerce Application
 
-A React-based e-commerce application built as part of NxtWave ReactJS Coding Practices, focusing on authentication, protected routes, and cart functionality.
+A React-based e-commerce application built as part of **NxtWave ReactJS Coding Practices**, focusing on authentication, protected routes, and cart functionality.
 
-🔗 Repository:
-https://github.com/sanju20024/Nxt-Trendz-E-Commerce-Application
+---
 
-🌐 Live Demo:
-https://tsksanjay.ccbp.tech/login
+## 🔗 Links
 
-📌 Overview
+- **Repository:** https://github.com/sanju20024/Nxt-Trendz-E-Commerce-Application
+- **Live Application:** https://tsksanjay.ccbp.tech/login
 
-Nxt Trendz is a simplified online shopping platform inspired by real-world e-commerce applications.
-This project demonstrates core React concepts such as component structuring, context-based state management, routing, and JWT authentication.
+---
 
-The application fully satisfies NxtWave test cases and UI guidelines.
+## 📌 Overview
 
-✨ Features
-🔐 Authentication
+**Nxt Trendz** is a simplified online shopping platform inspired by real-world e-commerce applications.  
+This project demonstrates login authentication, product browsing, and cart management using React.
 
-Login using username & password
+The application follows **NxtWave UI guidelines and test cases**.
 
-JWT-based authentication
+---
 
-Protected routes
+## ✨ Features
 
-Logout functionality
+### 🔐 Authentication
+- Login using username and password
+- JWT-based authentication
+- Protected routes
+- Logout functionality
 
-🛍️ Cart Functionality
+### 🛍️ Cart Functionality
+- Add products to the cart
+- Increase or decrease product quantity
+- Remove items from the cart
+- Display cart items count
+- Calculate total cart price
+- Handle empty cart state
 
-Add products to cart
+### 🎨 User Interface
+- Responsive layout
+- Clean and structured UI
+- Smooth navigation
+- Consistent styling as per NxtWave standards
 
-Increase or decrease product quantity
+---
 
-Remove items from cart
+## 🧰 Tech Stack
 
-Display cart item count
+- **Frontend:** React JS
+- **Routing:** React Router DOM
+- **State Management:** React Context API
+- **Styling:** CSS
+- **Authentication:** JWT
+- **APIs:** REST APIs
 
-Calculate total cart price
+---
 
-Empty cart state handling
+## 📂 Project Structure
 
-🎨 User Interface
-
-Responsive layout
-
-Clean and structured UI
-
-Smooth navigation
-
-Consistent styling as per NxtWave standards
-
-🧰 Tech Stack
-
-Frontend: React JS
-
-Routing: React Router DOM
-
-State Management: React Context API
-
-Styling: CSS
-
-Authentication: JWT
-
-APIs: REST APIs
-
-📂 Project Structure
 src/
 ├── components/
 │   ├── Login/
@@ -79,53 +71,58 @@ src/
 ├── index.js
 └── index.css
 
-🚀 Local Setup
-1. Clone the repository
+
+---
+
+## 🚀 Local Setup
+
+### 1. Clone the repository
 git clone git@github.com:sanju20024/Nxt-Trendz-E-Commerce-Application.git
 
-2. Navigate to the project folder
+### 2. Navigate to the project directory
 cd Nxt-Trendz-E-Commerce-Application
 
-3. Install dependencies
+### 3. Install dependencies
 npm install
 
-4. Start the application
+### 4. Start the development server
 npm start
 
+The application will run at:http://localhost:3000
 
-The app will run at:
+---
 
-http://localhost:3000
+## 🔑 Test Login Credentials
 
-🔑 Test Login Credentials
-⭐ Premium Account
+### ⭐ Premium Account
 username: rahul
 password: rahul@2021
 
-👤 Non-Premium Account
+### 👤 Non-Premium Account
 username: raja
 password: raja@2021
 
-🧪 Learning Outcomes
+---
 
-Implemented authentication and protected routes
+## 🧪 Learning Outcomes
 
-Managed global state using Context API
+- Implemented authentication and protected routes
+- Managed global state using React Context API
+- Built complete cart functionality
+- Followed test-case-driven development
+- Improved React application structure and code organization
 
-Built complete cart functionality
+---
 
-Followed test-case-driven development
+## 👨‍💻 Author
 
-Improved React application structuring
+**Sanjay Thadaka**
 
-👨‍💻 Author
+- GitHub: https://github.com/sanju20024
+- Live Project: https://tsksanjay.ccbp.tech/login
 
-Sanjay Thadaka
+---
 
-GitHub: https://github.com/sanju20024
+## 📄 License
 
-Live Project: https://tsksanjay.ccbp.tech/login
-
-📄 License
-
-This project is developed for educational purposes as part of the NxtWave ReactJS curriculum.
+This project is developed for **educational and learning purposes** under the **NxtWave ReactJS curriculum**.
