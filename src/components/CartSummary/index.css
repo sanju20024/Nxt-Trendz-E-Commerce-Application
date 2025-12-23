@@ -1,0 +1,31 @@
+.items-inSummery {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  padding: 20px;
+}
+.order-total-rpice-heading {
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #616e7c;
+  font-size: 22px;
+}
+.total-price {
+  color: #171f46;
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+.items-count-total {
+  color: #616e7c;
+  font-family: 'Roboto';
+  margin-top: 5px;
+}
+.checkout-btn {
+  font-family: 'Roboto';
+  padding: 10px;
+  border: 0px;
+  border-radius: 3px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  cursor: pointer;
+}
