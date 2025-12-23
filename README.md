@@ -1,6 +1,6 @@
 # 🛒 Nxt Trendz – E-Commerce Application
 
-A React-based e-commerce application built as part of **NxtWave ReactJS Coding Practices**, focusing on authentication, protected routes, and cart functionality.
+A React-based e-commerce application built as part of **NxtWave ReactJS Project**, focusing on authentication, protected routes, and cart functionality.
 
 ---
 
